@@ -69,6 +69,6 @@ class MyString:
   value = property(value_getter, value_setter)
 
 
-instance = MyString("This. Is! A? Sample!.")
+# instance = MyString("This. Is! A? Sample!.")
 
-instance.count_sentences()
+# instance.count_sentences()
